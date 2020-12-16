@@ -34,6 +34,7 @@ sections:
         title: 'Learn about ethics, accessibility and sustainability.'
       - image: images/logo-3.svg
         image_align: center
+        title: 'Discover '
       - image: images/logo-4.svg
         image_align: center
       - image: images/logo-5.svg
