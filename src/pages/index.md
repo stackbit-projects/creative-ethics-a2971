@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What is creative ethics
+    title: How we can help
     subtitle: ''
     align: center
     grid_items:
