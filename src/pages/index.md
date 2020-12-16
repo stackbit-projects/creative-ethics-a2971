@@ -22,26 +22,26 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
-    subtitle: Grid Section Example
+    title: Here's what we can do...
+    subtitle: ''
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image_align: center
+        image_width: fifty
+        image_has_padding: true
+      - image: images/icons8-info-128.png
         image_align: center
-      - image: images/logo-2.svg
+        title: 'Learn about ethics, accessibility and sustainability.'
+      - image: images/icons8-google-code-128.png
         image_align: center
-      - image: images/logo-3.svg
+        title: Discover sustainable and accessible websites
+      - image: images/icons8-connect-128.png
         image_align: center
-      - image: images/logo-4.svg
-        image_align: center
-      - image: images/logo-5.svg
-        image_align: center
-      - image: images/logo-6.svg
-        image_align: center
-      - image: images/logo-7.svg
-        image_align: center
-      - image: images/logo-8.svg
-        image_align: center
+        title: 'Connect with us for more! '
+      - image_align: center
+      - image_align: center
+      - image_align: center
+      - image_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
