@@ -29,7 +29,7 @@ sections:
       - image_align: center
         title: ''
         title_align: center
-        subtitle: 'Learn about ethics, accessibility and sustainability.'
+        subtitle: ''
       - image_align: center
         title: Discover brilliant sustainable and accessible websites
         content_align: center
