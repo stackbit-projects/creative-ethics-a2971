@@ -31,7 +31,7 @@ sections:
         title_align: center
         subtitle: ''
       - image_align: center
-        title: 'Discover brilliant ethical website, made eth'
+        title: Discover brilliant ethical websites
         content_align: center
         title_align: center
       - image_align: center
