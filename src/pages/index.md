@@ -29,7 +29,7 @@ sections:
       - image: images/icons8-info-64.png
         image_align: center
         image_width: fifty
-        image_has_padding: false
+        image_has_padding: true
       - image: images/logo-2.svg
         image_align: center
         title: Hello test
