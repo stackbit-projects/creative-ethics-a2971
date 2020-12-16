@@ -38,8 +38,7 @@ sections:
       - image: images/icons8-connect-128.png
         image_align: center
         title: 'Connect with us for more! '
-      - image: images/logo-5.svg
-        image_align: center
+      - image_align: center
       - image: images/logo-6.svg
         image_align: center
       - image: images/logo-7.svg
