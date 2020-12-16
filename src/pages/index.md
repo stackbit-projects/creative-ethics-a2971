@@ -29,7 +29,7 @@ sections:
       - image_align: center
         image_width: fifty
         image_has_padding: true
-      - image: images/logo-2.svg
+      - image: images/important-stegosaurus.png
         image_align: center
         title: Hello test
       - image: images/logo-3.svg
