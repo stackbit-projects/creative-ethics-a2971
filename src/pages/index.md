@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Welco
+    title: 'What creative ethics '
     subtitle: Grid Section Example
     align: center
     grid_items:
