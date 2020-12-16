@@ -36,6 +36,7 @@ sections:
       - image: images/icons8-google-code-128.png
         image_align: center
         title: Discover sustainable and accessible websites
+        content_align: center
       - image: images/icons8-connect-128.png
         image_align: center
         title: 'Connect with us for more! '
