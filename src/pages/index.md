@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Creative Ethics
     subtitle: >-
-      We help designers make ethExploring ethics, sustainability and
-      accessibility for the web. 
+      We help designers Exploring ethics, sustainability and accessibility for
+      the web. 
     content: ''
     actions:
       - label: Try Free
