@@ -31,7 +31,7 @@ sections:
         image_has_padding: true
       - image: images/icons8-info-128.png
         image_align: center
-        title: 'Learn about ethics, accessibility and sustainability for the '
+        title: 'Learn about ethics, accessibility and sustainability.'
       - image: images/logo-3.svg
         image_align: center
       - image: images/logo-4.svg
