@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'We''re here to help make '
+    title: 'We''re here to help make websites '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
