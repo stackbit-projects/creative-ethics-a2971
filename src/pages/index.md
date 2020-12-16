@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: Supporting ethical choices in design
+    subtitle: Explo
     content: ''
     actions:
       - label: Try Free
