@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: 'Exploring ethics, sustainability and accessibi'
+    subtitle: 'Exploring ethics, sustainability and accessibility fo '
     content: ''
     actions:
       - label: Try Free
