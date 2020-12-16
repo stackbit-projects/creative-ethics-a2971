@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: What to expect from Creative Ethics
+    title: What to expect ...
     subtitle: ''
     align: center
     grid_items:
