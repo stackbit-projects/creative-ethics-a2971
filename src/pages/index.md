@@ -32,12 +32,16 @@ sections:
       - image: images/icons8-info-128.png
         image_align: center
         title: 'Learn about ethics, accessibility and sustainability.'
+        title_align: center
       - image: images/icons8-google-code-128.png
         image_align: center
-        title: Discover sustainable and accessible websites
+        title: Discover brilliant sustainable and accessible websites
+        content_align: center
+        title_align: center
       - image: images/icons8-connect-128.png
         image_align: center
         title: 'Connect with us for more! '
+        title_align: center
       - image_align: center
       - image_align: center
       - image_align: center
