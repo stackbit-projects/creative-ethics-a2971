@@ -28,6 +28,7 @@ sections:
     grid_items:
       - image: images/icons8-info-64.png
         image_align: center
+        image_width: fifty
       - image: images/logo-2.svg
         image_align: center
       - image: images/logo-3.svg
