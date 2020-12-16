@@ -32,7 +32,7 @@ sections:
       - image: images/icons8-info-128.png
         image_align: center
         title: 'Learn about ethics, accessibility and sustainability.'
-      - image: images/logo-3.svg
+      - image: images/icons8-web-design-64.png
         image_align: center
         title: Discover sustainable and accessible websites
       - image: images/logo-4.svg
