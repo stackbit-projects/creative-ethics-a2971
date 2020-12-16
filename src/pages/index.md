@@ -31,7 +31,7 @@ sections:
         title_align: center
         subtitle: ''
       - image_align: center
-        title: Discover brilliant website
+        title: 'Discover brilliant website, made '
         content_align: center
         title_align: center
       - image_align: center
