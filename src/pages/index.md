@@ -40,8 +40,7 @@ sections:
         title: 'Connect with us for more! '
       - image_align: center
       - image_align: center
-      - image: images/logo-7.svg
-        image_align: center
+      - image_align: center
       - image_align: center
     grid_cols: four
     grid_gap_horiz: medium
