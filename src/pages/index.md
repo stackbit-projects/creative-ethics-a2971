@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: How can web designers stay creative while making ethical choices?
+    subtitle: >-
+      How can web designers stay creative & efficient while making ethical
+      choices?
     content: >-
       We're a hub for easy-to use tools and helpful articles about ethics,
       sustainability and accessibility.
