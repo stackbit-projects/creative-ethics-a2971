@@ -35,7 +35,7 @@ sections:
         content_align: center
         title_align: center
       - image_align: center
-        title: 'Connect with us for more! '
+        title: Connect with us for more
         title_align: center
       - image_align: center
       - image_align: center
