@@ -4,7 +4,9 @@ sections:
   - type: hero_section
     title: Creative Ethics
     subtitle: How can web designers stay creative while making ethical choices?
-    content: ''
+    content: >-
+      We're a hub for easy-to use tools and helpful articles about ethics,
+      sustainability and accessibility.
     actions:
       - label: Try Free
         url: /pricing
