@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: 'Let''s make the web a better, '
+    subtitle: 'Let''s make the web a better, ethically-minded,'
     content: ''
     actions:
       - label: Try Free
