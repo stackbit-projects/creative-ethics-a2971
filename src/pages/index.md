@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: 'How can '
+    subtitle: 'How can designers '
     content: ''
     actions:
       - label: Try Free
