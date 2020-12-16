@@ -26,9 +26,6 @@ sections:
     subtitle: ''
     align: center
     grid_items:
-      - image_align: center
-        image_width: fifty
-        image_has_padding: true
       - image: images/icons8-info-128.png
         image_align: center
         title: ''
