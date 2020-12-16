@@ -31,7 +31,7 @@ sections:
         title_align: center
         subtitle: ''
       - image_align: center
-        title: Discover brilliant sustainable and accessible websites
+        title: Discover brilliant website
         content_align: center
         title_align: center
       - image_align: center
