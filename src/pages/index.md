@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'We''re here to help make websites '
+    title: Creative Ethics
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
