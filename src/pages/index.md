@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: Explo
+    subtitle: 'Exploring '
     content: ''
     actions:
       - label: Try Free
