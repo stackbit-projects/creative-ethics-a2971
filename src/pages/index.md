@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Creative Ethics
-    subtitle: 'How can designers '
+    subtitle: How can designers stay creative while making ethical choices?
     content: ''
     actions:
       - label: Try Free
