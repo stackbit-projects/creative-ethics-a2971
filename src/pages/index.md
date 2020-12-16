@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Here's what we can do...
+    title: Here's what you can do...
     subtitle: ''
     align: center
     grid_items:
