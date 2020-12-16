@@ -27,7 +27,7 @@ sections:
     align: center
     grid_items:
       - image_align: center
-        title: ''
+        title: 'Learn about ethics, accessibility and sustainability.'
         title_align: center
         subtitle: ''
       - image_align: center
