@@ -32,6 +32,7 @@ sections:
         image_has_padding: false
       - image: images/logo-2.svg
         image_align: center
+        title: Hello test
       - image: images/logo-3.svg
         image_align: center
       - image: images/logo-4.svg
